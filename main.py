@@ -1,6 +1,8 @@
 import os
 import importlib
 import webview
+# pillow
+from PIL import Image
 
 url = 'https://forum.olivos.run/'
 title = 'OlivOS论坛'
